@@ -1,0 +1,296 @@
+{
+  "generatedOn": "2026-11-18",
+  "generator": "ChatGPT built-in image_gen (imagegen skill); one generation per asset",
+  "brandReferences": [
+    "docs/DESIGN_SYSTEM.md",
+    "docs/IMAGE_GENERATION_GUIDE.md",
+    "public/images/brand/pulpa-symbol.svg"
+  ],
+  "delivery": {
+    "format": "WebP",
+    "imageCount": 24,
+    "transparentImageCount": 13,
+    "totalBytes": 4856326,
+    "notes": "Generated PNG originals are preserved in Codex generated_images. Project files are optimized WebP copies; no runtime access to those originals is required. Raster dimensions preserve the slot aspect ratios without upscaling."
+  },
+  "assets": [
+    {
+      "id": "hero-bg-sola",
+      "path": "public/images/hero/hero-bg-sola.webp",
+      "width": 1664,
+      "height": 936,
+      "transparent": false,
+      "bytes": 18570,
+      "sha256": "146aad550458b5e7a846369881b1462affcd971cd2d6c93009e083013dd0804b",
+      "prompt": "Use case: ads-marketing. Asset type: empty full bleed atmospheric website hero background, wide 16:9 canvas, ideally 1920x1080.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nCreate an empty, cinematic studio backdrop for the hero section of the PULPA. website, for the fragrance SOLA (pineapple, mood: vibrant, solar, energetic and bold).\nComposition: wide 16:9 seamless studio sweep in tropical sun yellow (#F2CC58), lighter and creamier towards the top (#FBEFC6), slightly deeper towards the bottom corners (#C8921F). A large soft circular glow of warm light in the centre, a little below the middle, as if a spotlight is waiting for a product. Soft, out-of-focus dappled shadows of tropical leaves falling across the upper left and right of the wall (like sunlight through palm leaves), very diffuse and low contrast. A few blurred, out-of-focus pineapple shapes at the extreme left and right edges, heavily defocused (bokeh), suggesting depth.\nKeep the whole central area (middle 50% of the width, from 15% to 100% of the height) clean and empty: no objects, no podium, no bottle — a product and a pedestal will be composited there later. Keep the left and right thirds at mid-height calm and low-contrast because large headline text sits there.\nLighting: soft, warm, high-end advertising light, gentle gradients, no harsh shadows. Style: premium fragrance campaign photography, photorealistic, subtle film grain, colour-graded to the PULPA. palette.\nDeliver only the photographic backdrop. No written words, no icons, no packaging or product. Subdued elegant tropical shadows and silky tonal gradients, minimal central negative space for the web page's separate bottle and typography. Maintain the exact fragrance color family specified. This is one image in a cohesive four-color campaign.",
+      "referenceAssets": []
+    },
+    {
+      "id": "hero-bg-rubra",
+      "path": "public/images/hero/hero-bg-rubra.webp",
+      "width": 1664,
+      "height": 936,
+      "transparent": false,
+      "bytes": 22632,
+      "sha256": "01200dd2d4de304825cf1ce91eb3f2e84c3a54c9d864015ebbaee47b5ae60dba",
+      "prompt": "Use case: ads-marketing. Asset type: empty full bleed atmospheric website hero background, wide 16:9 canvas, ideally 1920x1080.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nCreate an empty, cinematic studio backdrop for the hero section of the PULPA. website, for the fragrance RUBRA (red berries (raspberries), mood: intense, passionate, sweet and expressive).\nComposition: wide 16:9 seamless studio sweep in rose-red (#BC4358), lighter and creamier towards the top (#F4CDD3), slightly deeper towards the bottom corners (#7A2135). A large soft circular glow of warm light in the centre, a little below the middle, as if a spotlight is waiting for a product. Soft, out-of-focus dappled shadows of tropical leaves falling across the upper left and right of the wall (like sunlight through palm leaves), very diffuse and low contrast. A few blurred, out-of-focus red berries (raspberries) shapes at the extreme left and right edges, heavily defocused (bokeh), suggesting depth.\nKeep the whole central area (middle 50% of the width, from 15% to 100% of the height) clean and empty: no objects, no podium, no bottle — a product and a pedestal will be composited there later. Keep the left and right thirds at mid-height calm and low-contrast because large headline text sits there.\nLighting: soft, warm, high-end advertising light, gentle gradients, no harsh shadows. Style: premium fragrance campaign photography, photorealistic, subtle film grain, colour-graded to the PULPA. palette.\nDeliver only the photographic backdrop. No written words, no icons, no packaging or product. Subdued elegant tropical shadows and silky tonal gradients, minimal central negative space for the web page's separate bottle and typography. Maintain the exact fragrance color family specified. This is one image in a cohesive four-color campaign.",
+      "referenceAssets": []
+    },
+    {
+      "id": "hero-bg-marea",
+      "path": "public/images/hero/hero-bg-marea.webp",
+      "width": 1664,
+      "height": 936,
+      "transparent": false,
+      "bytes": 18484,
+      "sha256": "12bcc1e880303e7b204b0ae71067b18cf148e6a8cef55d2e1d6a219cf252ca3a",
+      "prompt": "Use case: ads-marketing. Asset type: empty full bleed atmospheric website hero background, wide 16:9 canvas, ideally 1920x1080.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nCreate an empty, cinematic studio backdrop for the hero section of the PULPA. website, for the fragrance MAREA (papaya, mood: tropical, warm, spontaneous and sensual).\nComposition: wide 16:9 seamless studio sweep in warm papaya orange (#F2A16E), lighter and creamier towards the top (#FBDFCB), slightly deeper towards the bottom corners (#C4612F). A large soft circular glow of warm light in the centre, a little below the middle, as if a spotlight is waiting for a product. Soft, out-of-focus dappled shadows of tropical leaves falling across the upper left and right of the wall (like sunlight through palm leaves), very diffuse and low contrast. A few blurred, out-of-focus papaya shapes at the extreme left and right edges, heavily defocused (bokeh), suggesting depth.\nKeep the whole central area (middle 50% of the width, from 15% to 100% of the height) clean and empty: no objects, no podium, no bottle — a product and a pedestal will be composited there later. Keep the left and right thirds at mid-height calm and low-contrast because large headline text sits there.\nLighting: soft, warm, high-end advertising light, gentle gradients, no harsh shadows. Style: premium fragrance campaign photography, photorealistic, subtle film grain, colour-graded to the PULPA. palette.\nDeliver only the photographic backdrop. No written words, no icons, no packaging or product. Subdued elegant tropical shadows and silky tonal gradients, minimal central negative space for the web page's separate bottle and typography. Maintain the exact fragrance color family specified. This is one image in a cohesive four-color campaign.",
+      "referenceAssets": []
+    },
+    {
+      "id": "hero-bg-vera",
+      "path": "public/images/hero/hero-bg-vera.webp",
+      "width": 1664,
+      "height": 936,
+      "transparent": false,
+      "bytes": 18442,
+      "sha256": "30eb4f87bbcd581095513d45add3820be0dae9352d9b91a7eb2cefee6186556d",
+      "prompt": "Use case: ads-marketing. Asset type: empty full bleed atmospheric website hero background, wide 16:9 canvas, ideally 1920x1080.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nCreate an empty, cinematic studio backdrop for the hero section of the PULPA. website, for the fragrance VERA (green apple, mood: fresh, unexpected, light and modern).\nComposition: wide 16:9 seamless studio sweep in soft green-apple green (#A9C77D), lighter and creamier towards the top (#E4EED2), slightly deeper towards the bottom corners (#5B7C36). A large soft circular glow of warm light in the centre, a little below the middle, as if a spotlight is waiting for a product. Soft, out-of-focus dappled shadows of tropical leaves falling across the upper left and right of the wall (like sunlight through palm leaves), very diffuse and low contrast. A few blurred, out-of-focus green apple shapes at the extreme left and right edges, heavily defocused (bokeh), suggesting depth.\nKeep the whole central area (middle 50% of the width, from 15% to 100% of the height) clean and empty: no objects, no podium, no bottle — a product and a pedestal will be composited there later. Keep the left and right thirds at mid-height calm and low-contrast because large headline text sits there.\nLighting: soft, warm, high-end advertising light, gentle gradients, no harsh shadows. Style: premium fragrance campaign photography, photorealistic, subtle film grain, colour-graded to the PULPA. palette.\nDeliver only the photographic backdrop. No written words, no icons, no packaging or product. Subdued elegant tropical shadows and silky tonal gradients, minimal central negative space for the web page's separate bottle and typography. Maintain the exact fragrance color family specified. This is one image in a cohesive four-color campaign.",
+      "referenceAssets": []
+    },
+    {
+      "id": "hero-pedestal",
+      "path": "public/images/hero/hero-pedestal.webp",
+      "width": 1760,
+      "height": 880,
+      "transparent": true,
+      "bytes": 298028,
+      "sha256": "a447c1568e7d277bf33677a1dca42969c2a373acd1fae863d80b53cd72330f1f",
+      "prompt": "Use case: product-mockup. Asset type: isolated photographic layer for PULPA. premium perfume campaign.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nProduct-photography prop on a TRANSPARENT background: a wide, low cylindrical pedestal in warm ivory travertine / honed limestone with fine natural pores and subtle beige veining.\nCamera slightly above eye level (about 15°), so the flat circular top surface is visible as a wide ellipse. The pedestal fills about 95% of the frame width. The top ellipse occupies roughly the upper 30% of the frame; the cylinder's side goes straight down and is cut off by the bottom edge of the image (the base is not visible).\nLighting: soft warm key light from the upper left, the top surface brightest, the cylinder side shading gently to the right. Very subtle, realistic contact-shadow area on the top surface where a product will stand (centre of the ellipse), otherwise clean.\nPhotorealistic, premium, matte stone. Isolated object, fully transparent background (alpha), clean edges.\nCanvas wide horizontal 2:1, ideally 1600x800. Deliver genuinely TRANSPARENT ALPHA outside the subject with fine clean natural edges. Never draw a checkerboard, white background, text, watermark or border. Match the soft upper-left key light of luxury glass perfume photography. Refined realistic form, no malformed fruit or duplicated/fused objects.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fragrance-bottle-sola",
+      "path": "public/images/fragrances/fragrance-bottle-sola.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": true,
+      "bytes": 136304,
+      "sha256": "9b43e187fcdfff3fffef97f27fd706458ad491a359661291942be28863c8885c",
+      "prompt": "Use case: product-mockup. Asset type: PULPA. SOLA luxury perfume website packshot, separate transparent animation layer.\nInput image 1 is ONLY the official brand symbol reference. Reproduce its elegant stylized pineapple mark accurately on the glass in warm ivory. Do not copy the charcoal reference background.\nCreate ultra-photorealistic luxury perfume product photography: one perfectly upright tall rectangular flacon, heavy crystal clear thick glass, softly rounded vertical edges, very thick clear refractive base. Body approximately 5 cm wide x 9 cm high x 3.5 cm deep. Matte charcoal black cylindrical cap approximately 60% of bottle width and 25% of total height, short black collar. Golden pineapple yellow perfume liquid #F2CC58 filled just below shoulder, subtly translucent, elegant glossy glass.\nMinimal direct printing on the front in warm ivory #F6F1E8: small official pineapple symbol, below it \"PULPA.\" in bold widely tracked geometric sans-serif, thin horizontal rule, below it \"SOLA\", below that small \"EAU DE PARFUM\". These are the only words, exact spelling. Label is printing on glass, no paper rectangle. Frontal camera at bottle center height, 85mm lens, no distortion or rotation. Soft warm key light upper left, gentle fill right, realistic slender specular highlights on glass edges. High end cosmetics campaign, razor sharp material detail.\nVertical 4:5 canvas, ideally 1600x2000. Bottle centered, total height 90% of frame, base 4% above bottom, balanced empty margin. Entire outside of bottle is REAL TRANSPARENT ALPHA, including corners. No background, no white rectangle, no checkerboard drawn into image, no studio floor, no props, no fruit, no hand, no extra text, no watermark. Keep silhouette simple and luxurious.",
+      "referenceAssets": [
+        "public/images/brand/pulpa-symbol.svg"
+      ]
+    },
+    {
+      "id": "fragrance-bottle-rubra",
+      "path": "public/images/fragrances/fragrance-bottle-rubra.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": true,
+      "bytes": 119826,
+      "sha256": "d60af95f2411d118239b51309643a3a4a924c0afde2a45da326003180db82a2a",
+      "prompt": "Use case: product-mockup. Create the RUBRA packshot variant of the PULPA. perfume in reference image 1. Reference image 2 is the exact official brand symbol. KEEP IDENTICAL: exact bottle silhouette, cap geometry, glass thickness, glass base, camera frontal perspective, framing, size and position on canvas, studio lighting, highlights, warm ivory direct-print label placement and its official stylized pineapple mark. Change ONLY the liquid color from yellow to deep rose red raspberry #BC4358 and change ONLY the fragrance name \"SOLA\" to \"RUBRA\". Preserve the exact wordmark \"PULPA.\", horizontal rule, and \"EAU DE PARFUM\", beautifully legible widely tracked geometric sans serif, no extra writing. Keep glass clear and the color rich and true to reference brand palette; premium photorealistic cosmetics advertising. Single whole bottle centered in a vertical 4:5 canvas, 90% frame height with empty margin, base 4% above bottom. REAL TRANSPARENT ALPHA outside bottle, no floor, no backdrop, no checkerboard baked into image, no props or fruit, no watermark. This must clearly look like the same product photographed together with the reference.",
+      "referenceAssets": [
+        "public/images/fragrances/fragrance-bottle-sola.webp",
+        "public/images/brand/pulpa-symbol.svg"
+      ]
+    },
+    {
+      "id": "fragrance-bottle-marea",
+      "path": "public/images/fragrances/fragrance-bottle-marea.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": true,
+      "bytes": 131324,
+      "sha256": "4e36abc0c56b4b39fe2472720e1efebb756b187bbaf7aeee06f3e5a92fe657de",
+      "prompt": "Use case: product-mockup. Create the MAREA packshot variant of the PULPA. perfume in reference image 1. Reference image 2 is the exact official brand symbol. KEEP IDENTICAL: exact bottle silhouette, cap geometry, glass thickness, glass base, camera frontal perspective, framing, size and position on canvas, studio lighting, highlights, warm ivory direct-print label placement and its official stylized pineapple mark. Change ONLY the liquid color from yellow to warm ripe papaya orange #F2A16E and change ONLY the fragrance name \"SOLA\" to \"MAREA\". Preserve the exact wordmark \"PULPA.\", horizontal rule, and \"EAU DE PARFUM\", beautifully legible widely tracked geometric sans serif, no extra writing. Keep glass clear and the color rich and true to reference brand palette; premium photorealistic cosmetics advertising. Single whole bottle centered in a vertical 4:5 canvas, 90% frame height with empty margin, base 4% above bottom. REAL TRANSPARENT ALPHA outside bottle, no floor, no backdrop, no checkerboard baked into image, no props or fruit, no watermark. This must clearly look like the same product photographed together with the reference.",
+      "referenceAssets": [
+        "public/images/fragrances/fragrance-bottle-sola.webp",
+        "public/images/brand/pulpa-symbol.svg"
+      ]
+    },
+    {
+      "id": "fragrance-bottle-vera",
+      "path": "public/images/fragrances/fragrance-bottle-vera.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": true,
+      "bytes": 116816,
+      "sha256": "e6b9e4f921bdfa4b4770c585e7a18cfb70bfc9bc94bcc483036fe5e9cdff76fb",
+      "prompt": "Use case: product-mockup. Create the VERA packshot variant of the PULPA. perfume in reference image 1. Reference image 2 is the exact official brand symbol. KEEP IDENTICAL: exact bottle silhouette, cap geometry, glass thickness, glass base, camera frontal perspective, framing, size and position on canvas, studio lighting, highlights, warm ivory direct-print label placement and its official stylized pineapple mark. Change ONLY the liquid color from yellow to fresh soft green apple #A9C77D and change ONLY the fragrance name \"SOLA\" to \"VERA\". Preserve the exact wordmark \"PULPA.\", horizontal rule, and \"EAU DE PARFUM\", beautifully legible widely tracked geometric sans serif, no extra writing. Keep glass clear and the color rich and true to reference brand palette; premium photorealistic cosmetics advertising. Single whole bottle centered in a vertical 4:5 canvas, 90% frame height with empty margin, base 4% above bottom. REAL TRANSPARENT ALPHA outside bottle, no floor, no backdrop, no checkerboard baked into image, no props or fruit, no watermark. This must clearly look like the same product photographed together with the reference.",
+      "referenceAssets": [
+        "public/images/fragrances/fragrance-bottle-sola.webp",
+        "public/images/brand/pulpa-symbol.svg"
+      ]
+    },
+    {
+      "id": "fruit-cutout-pineapple",
+      "path": "public/images/fruits/fruit-cutout-pineapple.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 330304,
+      "sha256": "0d664e33f199b5728476f1fae466ba79e17abe466c04e7f2cd5c0abb9219155e",
+      "prompt": "Use case: photorealistic-natural. Asset type: isolated photographic layer for PULPA. premium perfume campaign.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of a whole small ripe pineapple, slightly tilted, golden-yellow skin with a lush green crown, isolated on a TRANSPARENT background, for the fragrance SOLA (colour world #F2CC58).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with tropical sun yellow (#F2CC58).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nCanvas SQUARE 1:1, ideally 1200x1200. Deliver genuinely TRANSPARENT ALPHA outside the subject with fine clean natural edges. Never draw a checkerboard, white background, text, watermark or border. Match the soft upper-left key light of luxury glass perfume photography. Refined realistic form, no malformed fruit or duplicated/fused objects.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-pineapple-accent",
+      "path": "public/images/fruits/fruit-cutout-pineapple-accent.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 315018,
+      "sha256": "77031463572987d96c7f21162629e251c6547a1b64562df3c175e0c1c5e801da",
+      "prompt": "Use case: photorealistic-natural. Asset type: transparent floating fruit accent layer for PULPA. perfume website.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of three or four freshly cut juicy pineapple chunks, bright yellow flesh, glistening with juice, loosely grouped, isolated on a TRANSPARENT background, for the fragrance SOLA (colour world #F2CC58).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with tropical sun yellow (#F2CC58).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nSQUARE 1:1 canvas, ideally 1200x1200. Single carefully arranged appetizing subject group fully inside the canvas with at least 8% empty margin. Realistic botanical anatomy, polished commercial macro photograph. Genuinely TRANSPARENT ALPHA outside subject. No ground shadow, no backdrop, no checkerboard drawn in the image, no text or watermark. Match soft upper-left light and natural vibrant colors of premium perfume advertising.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-berries",
+      "path": "public/images/fruits/fruit-cutout-berries.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 376698,
+      "sha256": "0d1e3fda29837790f78732d743bc2dd2de2ba2b8d8e517dc8dabe6d0dfac99a3",
+      "prompt": "Use case: photorealistic-natural. Asset type: isolated photographic layer for PULPA. premium perfume campaign.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of a loose cluster of five or six glossy ripe raspberries with two fresh green raspberry leaves, isolated on a TRANSPARENT background, for the fragrance RUBRA (colour world #BC4358).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with rose-red (#BC4358).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nCanvas SQUARE 1:1, ideally 1200x1200. Deliver genuinely TRANSPARENT ALPHA outside the subject with fine clean natural edges. Never draw a checkerboard, white background, text, watermark or border. Match the soft upper-left key light of luxury glass perfume photography. Refined realistic form, no malformed fruit or duplicated/fused objects.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-berries-accent",
+      "path": "public/images/fruits/fruit-cutout-berries-accent.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 328942,
+      "sha256": "3310d943584b43879b37c912828e0b75012964b2eeffd4193749fde44cfefc56",
+      "prompt": "Use case: photorealistic-natural. Asset type: transparent floating fruit accent layer for PULPA. perfume website.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of two or three single glossy raspberries floating, slightly apart from each other, isolated on a TRANSPARENT background, for the fragrance RUBRA (colour world #BC4358).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with rose-red (#BC4358).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nSQUARE 1:1 canvas, ideally 1200x1200. Single carefully arranged appetizing subject group fully inside the canvas with at least 8% empty margin. Realistic botanical anatomy, polished commercial macro photograph. Genuinely TRANSPARENT ALPHA outside subject. No ground shadow, no backdrop, no checkerboard drawn in the image, no text or watermark. Match soft upper-left light and natural vibrant colors of premium perfume advertising.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-papaya",
+      "path": "public/images/fruits/fruit-cutout-papaya.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 345072,
+      "sha256": "d3b881a16108f5078477131c148f51767008c2019c646b5a9090d1eb9104114b",
+      "prompt": "Use case: photorealistic-natural. Asset type: isolated photographic layer for PULPA. premium perfume campaign.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of half of a ripe papaya cut lengthwise, vivid orange flesh with a cavity full of glossy black seeds, green-yellow skin, isolated on a TRANSPARENT background, for the fragrance MAREA (colour world #F2A16E).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with warm papaya orange (#F2A16E).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nCanvas SQUARE 1:1, ideally 1200x1200. Deliver genuinely TRANSPARENT ALPHA outside the subject with fine clean natural edges. Never draw a checkerboard, white background, text, watermark or border. Match the soft upper-left key light of luxury glass perfume photography. Refined realistic form, no malformed fruit or duplicated/fused objects.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-papaya-accent",
+      "path": "public/images/fruits/fruit-cutout-papaya-accent.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 249958,
+      "sha256": "ac371a7183ce55a18d46e4707c14bed727b7d30294547ee3938c828ad6021226",
+      "prompt": "Use case: photorealistic-natural. Asset type: transparent floating fruit accent layer for PULPA. perfume website.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of a crescent-shaped slice of papaya with a few black seeds, isolated on a TRANSPARENT background, for the fragrance MAREA (colour world #F2A16E).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with warm papaya orange (#F2A16E).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nSQUARE 1:1 canvas, ideally 1200x1200. Single carefully arranged appetizing subject group fully inside the canvas with at least 8% empty margin. Realistic botanical anatomy, polished commercial macro photograph. Genuinely TRANSPARENT ALPHA outside subject. No ground shadow, no backdrop, no checkerboard drawn in the image, no text or watermark. Match soft upper-left light and natural vibrant colors of premium perfume advertising.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-apple",
+      "path": "public/images/fruits/fruit-cutout-apple.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 229332,
+      "sha256": "70e56a3171a09052df240f01c2f91e9175836e0d0182c6a6cce2f3697fb5095b",
+      "prompt": "Use case: photorealistic-natural. Asset type: isolated photographic layer for PULPA. premium perfume campaign.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of a whole crisp green apple with a short stem and one fresh leaf, a few tiny water droplets on the skin, isolated on a TRANSPARENT background, for the fragrance VERA (colour world #A9C77D).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with soft green-apple green (#A9C77D).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nCanvas SQUARE 1:1, ideally 1200x1200. Deliver genuinely TRANSPARENT ALPHA outside the subject with fine clean natural edges. Never draw a checkerboard, white background, text, watermark or border. Match the soft upper-left key light of luxury glass perfume photography. Refined realistic form, no malformed fruit or duplicated/fused objects.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-cutout-apple-accent",
+      "path": "public/images/fruits/fruit-cutout-apple-accent.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": true,
+      "bytes": 298314,
+      "sha256": "6984eb461239644a015d2fd308c7ac889095900629d1255686d961fb1c2aecf4",
+      "prompt": "Use case: photorealistic-natural. Asset type: transparent floating fruit accent layer for PULPA. perfume website.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nHigh-end food / still-life photography of a thin horizontal cross-section slice of green apple showing the pale flesh and the star-shaped core with two seeds, isolated on a TRANSPARENT background, for the fragrance VERA (colour world #A9C77D).\nComposition: the subject centred in a square frame, occupying about 80% of the frame, with a little breathing room on every side so nothing touches the edges. Slight three-quarter angle, dynamic and appetising, as if caught mid-air in a perfume advertisement.\nLighting: soft warm key light from the upper left matching a premium perfume packshot, glossy natural highlights, juicy textures, tiny realistic droplets. Colours saturated but natural, harmonised with soft green-apple green (#A9C77D).\nPhotorealistic, razor-sharp focus, clean cut-out edges with natural soft shadows removed (alpha only).\nSQUARE 1:1 canvas, ideally 1200x1200. Single carefully arranged appetizing subject group fully inside the canvas with at least 8% empty margin. Realistic botanical anatomy, polished commercial macro photograph. Genuinely TRANSPARENT ALPHA outside subject. No ground shadow, no backdrop, no checkerboard drawn in the image, no text or watermark. Match soft upper-left light and natural vibrant colors of premium perfume advertising.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-universe-pineapple",
+      "path": "public/images/fruits/fruit-universe-pineapple.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": false,
+      "bytes": 257272,
+      "sha256": "57004a9c56b49b70da6be4afcb6da912a3dcd0e7d643588c7fab48e4e01b53fb",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium editorial fruit macro photo for PULPA. perfume brand.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nExtreme close-up macro photograph of pineapple for the PULPA. \"Fruit Universe\" section: the textured golden skin and cut juicy flesh of a pineapple, diamond-patterned rind.\nComposition: vertical 4:5, the subject fills the frame edge to edge (no empty background), with the most interesting detail in the centre because the image will be cropped by a rounded organic mask — keep the centre 70% visually rich and the corners expendable.\nLighting: soft warm directional light from the upper left, juicy highlights, shallow depth of field, tiny droplets. Colour-graded to tropical sun yellow (#F2CC58) with hints of warm ivory.\nStyle: editorial, sensual, premium advertising macro photography, photorealistic, subtle grain.\nPortrait 4:5 canvas, ideally 1200x1500. Full-bleed detailed organic fruit texture, beautifully composed like a luxury fragrance magazine; fine natural droplets, tactile appetizing flesh, realistic seeds and botanically accurate forms. Warm upper-left light, shallow depth of field but richly sharp central detail. No transparent area, text, graphic overlay, hands, bottle, frame or watermark.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-universe-berries",
+      "path": "public/images/fruits/fruit-universe-berries.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": false,
+      "bytes": 236088,
+      "sha256": "3ff81d35fe2c8c7fd3dc0d887a219c1e0d766b2b41ebc4daf76d5936e629fd62",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium editorial fruit macro photo for PULPA. perfume brand.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nExtreme close-up macro photograph of red berries for the PULPA. \"Fruit Universe\" section: glossy ripe raspberries, every drupelet visible, a drop of juice.\nComposition: vertical 4:5, the subject fills the frame edge to edge (no empty background), with the most interesting detail in the centre because the image will be cropped by a rounded organic mask — keep the centre 70% visually rich and the corners expendable.\nLighting: soft warm directional light from the upper left, juicy highlights, shallow depth of field, tiny droplets. Colour-graded to rose-red (#BC4358) with hints of warm ivory.\nStyle: editorial, sensual, premium advertising macro photography, photorealistic, subtle grain.\nPortrait 4:5 canvas, ideally 1200x1500. Full-bleed detailed organic fruit texture, beautifully composed like a luxury fragrance magazine; fine natural droplets, tactile appetizing flesh, realistic seeds and botanically accurate forms. Warm upper-left light, shallow depth of field but richly sharp central detail. No transparent area, text, graphic overlay, hands, bottle, frame or watermark.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-universe-papaya",
+      "path": "public/images/fruits/fruit-universe-papaya.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": false,
+      "bytes": 260962,
+      "sha256": "ae0310d1072b8f7340a620b64efc5a184115ffa31e50716b98e6ea36c3a5162f",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium editorial fruit macro photo for PULPA. perfume brand.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nExtreme close-up macro photograph of papaya for the PULPA. \"Fruit Universe\" section: the vivid orange flesh and glistening black seeds of a halved papaya.\nComposition: vertical 4:5, the subject fills the frame edge to edge (no empty background), with the most interesting detail in the centre because the image will be cropped by a rounded organic mask — keep the centre 70% visually rich and the corners expendable.\nLighting: soft warm directional light from the upper left, juicy highlights, shallow depth of field, tiny droplets. Colour-graded to warm papaya orange (#F2A16E) with hints of warm ivory.\nStyle: editorial, sensual, premium advertising macro photography, photorealistic, subtle grain.\nPortrait 4:5 canvas, ideally 1200x1500. Full-bleed detailed organic fruit texture, beautifully composed like a luxury fragrance magazine; fine natural droplets, tactile appetizing flesh, realistic seeds and botanically accurate forms. Warm upper-left light, shallow depth of field but richly sharp central detail. No transparent area, text, graphic overlay, hands, bottle, frame or watermark.",
+      "referenceAssets": []
+    },
+    {
+      "id": "fruit-universe-apple",
+      "path": "public/images/fruits/fruit-universe-apple.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": false,
+      "bytes": 264210,
+      "sha256": "516f3b22cfa6fcf380a4a8751e71189c7ef5d91c148b037f111a4f59b3c9d185",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium editorial fruit macro photo for PULPA. perfume brand.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nExtreme close-up macro photograph of green apple for the PULPA. \"Fruit Universe\" section: the cold, dewy skin of a green apple with a fresh bite or slice showing crisp pale flesh.\nComposition: vertical 4:5, the subject fills the frame edge to edge (no empty background), with the most interesting detail in the centre because the image will be cropped by a rounded organic mask — keep the centre 70% visually rich and the corners expendable.\nLighting: soft warm directional light from the upper left, juicy highlights, shallow depth of field, tiny droplets. Colour-graded to soft green-apple green (#A9C77D) with hints of warm ivory.\nStyle: editorial, sensual, premium advertising macro photography, photorealistic, subtle grain.\nPortrait 4:5 canvas, ideally 1200x1500. Full-bleed detailed organic fruit texture, beautifully composed like a luxury fragrance magazine; fine natural droplets, tactile appetizing flesh, realistic seeds and botanically accurate forms. Warm upper-left light, shallow depth of field but richly sharp central detail. No transparent area, text, graphic overlay, hands, bottle, frame or watermark.",
+      "referenceAssets": []
+    },
+    {
+      "id": "philosophy-editorial",
+      "path": "public/images/editorial/philosophy-editorial.webp",
+      "width": 1120,
+      "height": 1400,
+      "transparent": false,
+      "bytes": 227688,
+      "sha256": "99fb951c4409bc4ee80216a096db1b74cc1432f45abc8ec0675071af4ace033f",
+      "prompt": "Use case: ads-marketing. Asset type: portrait 4:5 perfume editorial campaign photograph for PULPA.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nEditorial still-life photograph for the PULPA. \"Our Philosophy\" section: a hand with a natural manicure holding a PULPA. RUBRA perfume bottle (heavy clear square glass, rose-red liquid #BC4358, matte black cylindrical cap, minimal ivory printed label) among playful, unexpected arrangements of cut tropical fruit — half a papaya, pineapple wedges, raspberries, a green-apple slice — arranged on a warm ivory surface with bold sculptural shadows.\nComposition: vertical 4:5, the bottle and hand in the upper-middle area, fruit spilling towards the bottom; keep the top-right corner a little calmer (a circular badge overlaps it). Slight top-down angle.\nLighting: hard, sunny late-afternoon light from the upper left with crisp graphic shadows, saturated colours, contemporary fashion still-life (playful but luxurious).\nPhotorealistic, premium magazine quality.\nInput image 1 is the APPROVED RUBRA bottle product reference, preserve the same heavy rectangular clear glass, raspberry liquid, matte black cylindrical cap and ivory direct printed label with \"PULPA.\" / \"RUBRA\" / \"EAU DE PARFUM\". Input image 2 is the official brand symbol, preserve it. One anatomically correct natural human hand with five fingers, tasteful natural manicure, holding the bottle lightly around its lower sides, label facing the camera with all text visible. No face or whole person. Keep bottle in the central upper middle, fruit below it, refined uncluttered arrangement.\nPhotorealistic premium fragrance editorial photography with realistic tactile materials and carefully controlled highlights. Beautiful finished photograph, no graphic overlays or watermarks.",
+      "referenceAssets": [
+        "public/images/fragrances/fragrance-bottle-rubra.webp",
+        "public/images/brand/pulpa-symbol.svg"
+      ]
+    },
+    {
+      "id": "philosophy-detail",
+      "path": "public/images/editorial/philosophy-detail.webp",
+      "width": 1200,
+      "height": 1200,
+      "transparent": false,
+      "bytes": 187624,
+      "sha256": "143c32bdcee546a42e9eb521cb05a19a7f9d30f7a723c75dde70c2735ff50041",
+      "prompt": "Use case: photorealistic-natural. Asset type: square 1:1 sensory macro detail for PULPA.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nMacro detail photograph: drops of golden pineapple juice and tiny bubbles sliding down the surface of thick, clear perfume glass tinted sunny yellow (#F2CC58), with a sliver of fresh pineapple flesh blurred in the background.\nComposition: square, the most interesting texture in the centre because the image is cropped to a circle; edges can be soft and out of focus.\nLighting: warm backlight through the glass, glowing yellows and soft ivory highlights. Photorealistic macro, shallow depth of field.\nNo text, no lettering, no logo, no bottle silhouette or packaging, no people.\nPhotorealistic premium fragrance editorial photography with realistic tactile materials and carefully controlled highlights. Beautiful finished photograph, no graphic overlays or watermarks.",
+      "referenceAssets": []
+    },
+    {
+      "id": "experience-backdrop",
+      "path": "public/images/editorial/experience-backdrop.webp",
+      "width": 1664,
+      "height": 936,
+      "transparent": false,
+      "bytes": 68418,
+      "sha256": "79213805e68df244d09a2957d196149b67f6dd594df5204679a931167849e707",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide 16:9 cinematic backdrop for PULPA.\nPULPA. is a contemporary, premium perfume brand inspired by fruit (tagline: \"Wear your wild side.\"). Art direction: contemporary luxury meets playful editorial design — vibrant but refined, tropical, fresh and sensual, high-end advertising photography. Brand palette: warm ivory #F6F1E8, charcoal #201F1C, pineapple yellow #F2CC58, red-berry pink-red #BC4358, papaya orange #F2A16E, green-apple green #A9C77D.\n\nCinematic, moody perfume-campaign scene for RUBRA (red berries): a dark wine-red set (#4A1220 to #7A2135) with glossy raspberries and blackberry leaves scattered in the foreground corners and on the floor, heavily out of focus, glowing berry-pink bokeh lights (#E9879A) and a warm papaya-orange rim light (#F2A16E) in the background, soft haze. A soft pool of light in the centre-bottom where a product will be placed later.\nComposition: wide 16:9. Keep the central third (from 25% to 95% of the height) clean and darker so a bottle can be composited there; keep the top-left and top-right areas calm for large headline text.\nLighting: low-key, sensual, theatrical, rich reds, high-end fragrance film still, photorealistic, subtle grain.\nNo text, no lettering, no logo, no bottle silhouette or packaging, no people.\nPhotorealistic premium fragrance editorial photography with realistic tactile materials and carefully controlled highlights. Beautiful finished photograph, no graphic overlays or watermarks.",
+      "referenceAssets": []
+    }
+  ]
+}

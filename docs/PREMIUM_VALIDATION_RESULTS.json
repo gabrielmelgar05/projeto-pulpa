@@ -1,0 +1,6534 @@
+{
+  "date": "2026-11-18",
+  "browser": "Chromium 1243 via Playwright, desktop and mobile viewports",
+  "checks": {
+    "lint": "passed",
+    "typecheck": "passed",
+    "build": "passed",
+    "originalAssetSlots": "24/24",
+    "keyboard": "PASS: fragrance arrow keys and focus; rapid open/close/reopen; Tab cycle; Escape and focus return; mobile list selection; CTA returns to matching hero; language preserves selection; no page errors"
+  },
+  "responsive": {
+    "layouts": [
+      {
+        "width": 320,
+        "height": 740,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 320,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 320,
+        "height": 740,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 320,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 375,
+        "height": 812,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 375,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 375,
+        "height": 812,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 375,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 390,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 390,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 768,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 768,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 1024,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 1024,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 1440,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 1440,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "en",
+        "motion": "reduce",
+        "scrollWidth": 1920,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "pt-BR",
+        "motion": "reduce",
+        "scrollWidth": 1920,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 320,
+        "height": 740,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 320,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 320,
+        "height": 740,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 320,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 375,
+        "height": 812,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 375,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 375,
+        "height": 812,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 375,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 390,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 390,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 768,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 768,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 1024,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 1024,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 1440,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 1440,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "en",
+        "motion": "no-preference",
+        "scrollWidth": 1920,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "pt-BR",
+        "motion": "no-preference",
+        "scrollWidth": 1920,
+        "headings": [],
+        "badges": [],
+        "broken": [],
+        "svg": [
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "scallop",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "drop",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "squiggle",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "blob",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "wave",
+            "inside": true
+          },
+          {
+            "kind": "leaf",
+            "inside": true
+          },
+          {
+            "kind": "sparkle",
+            "inside": true
+          },
+          {
+            "kind": "flower",
+            "inside": true
+          },
+          {
+            "kind": "splash",
+            "inside": true
+          }
+        ]
+      }
+    ],
+    "slides": [
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "en",
+        "id": "sola",
+        "left": 0,
+        "top": -0.5,
+        "copyTop": 140.25,
+        "copyBottom": 566.734375,
+        "hudTop": 689.5,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "en",
+        "id": "rubra",
+        "left": 0.0009765625,
+        "top": -0.5,
+        "copyTop": 151.15625,
+        "copyBottom": 555.828125,
+        "hudTop": 689.5,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "en",
+        "id": "marea",
+        "left": -0.0009765625,
+        "top": -0.5,
+        "copyTop": 151.15625,
+        "copyBottom": 555.828125,
+        "hudTop": 689.5,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "en",
+        "id": "vera",
+        "left": 0,
+        "top": -0.5,
+        "copyTop": 140.25,
+        "copyBottom": 566.734375,
+        "hudTop": 689.5,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "pt-BR",
+        "id": "sola",
+        "left": 0,
+        "top": -0.21875,
+        "copyTop": 140.53125,
+        "copyBottom": 567.015625,
+        "hudTop": 689.78125,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "pt-BR",
+        "id": "rubra",
+        "left": 0.0009765625,
+        "top": -0.21875,
+        "copyTop": 131.03125,
+        "copyBottom": 576.515625,
+        "hudTop": 689.78125,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "pt-BR",
+        "id": "marea",
+        "left": -0.0009765625,
+        "top": -0.21875,
+        "copyTop": 140.53125,
+        "copyBottom": 567.015625,
+        "hudTop": 689.78125,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1024,
+        "height": 768,
+        "locale": "pt-BR",
+        "id": "vera",
+        "left": 0,
+        "top": -0.21875,
+        "copyTop": 140.53125,
+        "copyBottom": 567.015625,
+        "hudTop": 689.78125,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "en",
+        "id": "sola",
+        "left": 0,
+        "top": 0.4375,
+        "copyTop": 200.890625,
+        "copyBottom": 649.984375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "en",
+        "id": "rubra",
+        "left": 0.0013427734375,
+        "top": 0.4375,
+        "copyTop": 200.890625,
+        "copyBottom": 649.984375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "en",
+        "id": "marea",
+        "left": -0.00146484375,
+        "top": 0.4375,
+        "copyTop": 200.890625,
+        "copyBottom": 649.984375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "en",
+        "id": "vera",
+        "left": 0,
+        "top": 0.4375,
+        "copyTop": 189,
+        "copyBottom": 661.859375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "pt-BR",
+        "id": "sola",
+        "left": 0,
+        "top": 0.4375,
+        "copyTop": 189,
+        "copyBottom": 661.859375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "pt-BR",
+        "id": "rubra",
+        "left": 0.0013427734375,
+        "top": 0.4375,
+        "copyTop": 177.375,
+        "copyBottom": 673.484375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "pt-BR",
+        "id": "marea",
+        "left": -0.00146484375,
+        "top": 0.4375,
+        "copyTop": 189,
+        "copyBottom": 661.859375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1440,
+        "height": 900,
+        "locale": "pt-BR",
+        "id": "vera",
+        "left": 0,
+        "top": 0.4375,
+        "copyTop": 189,
+        "copyBottom": 661.859375,
+        "hudTop": 822.4375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "en",
+        "id": "sola",
+        "left": 0,
+        "top": -0.15625,
+        "copyTop": 284.25,
+        "copyBottom": 756.234375,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "en",
+        "id": "rubra",
+        "left": 0.001953125,
+        "top": -0.15625,
+        "copyTop": 284.25,
+        "copyBottom": 756.234375,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "en",
+        "id": "marea",
+        "left": -0.001953125,
+        "top": -0.15625,
+        "copyTop": 284.25,
+        "copyBottom": 756.234375,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "en",
+        "id": "vera",
+        "left": 0,
+        "top": -0.15625,
+        "copyTop": 271.046875,
+        "copyBottom": 769.421875,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "pt-BR",
+        "id": "sola",
+        "left": 0,
+        "top": -0.15625,
+        "copyTop": 271.046875,
+        "copyBottom": 769.421875,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "pt-BR",
+        "id": "rubra",
+        "left": 0.001953125,
+        "top": -0.15625,
+        "copyTop": 257.75,
+        "copyBottom": 782.71875,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "pt-BR",
+        "id": "marea",
+        "left": -0.001953125,
+        "top": -0.15625,
+        "copyTop": 271.046875,
+        "copyBottom": 769.421875,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "width": 1920,
+        "height": 1080,
+        "locale": "pt-BR",
+        "id": "vera",
+        "left": 0,
+        "top": -0.15625,
+        "copyTop": 271.046875,
+        "copyBottom": 769.421875,
+        "hudTop": 1001.84375,
+        "badge": 35.59375,
+        "details": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "errors": [],
+    "consoleErrors": []
+  },
+  "functional": {
+    "preloaders": [
+      {
+        "label": "production entry",
+        "visibleFrames": 118,
+        "scaleRange": 0.3809965012841624,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "F5 reload",
+        "visibleFrames": 118,
+        "scaleRange": 0.3872970450212512,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "Ctrl+R reload",
+        "visibleFrames": 118,
+        "scaleRange": 0.3839047569332896,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "mobile slow assets",
+        "visibleFrames": 166,
+        "scaleRange": 0.3915971211835355,
+        "phases": [
+          "entering",
+          "waiting",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "mobile reduced motion",
+        "visibleFrames": 21,
+        "scaleRange": 0,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      }
+    ],
+    "panels": [
+      {
+        "locale": "en",
+        "id": "sola",
+        "left": 0,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 702.984375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "en",
+        "id": "rubra",
+        "left": 0.0013427734375,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 702.984375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "en",
+        "id": "marea",
+        "left": -0.00146484375,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 702.984375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "en",
+        "id": "vera",
+        "left": 0,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 714.859375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "pt-BR",
+        "id": "sola",
+        "left": 0,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 714.859375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "pt-BR",
+        "id": "rubra",
+        "left": 0.0013427734375,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 726.484375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "pt-BR",
+        "id": "marea",
+        "left": -0.00146484375,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 714.859375,
+        "hud": 922.4375
+      },
+      {
+        "locale": "pt-BR",
+        "id": "vera",
+        "left": 0,
+        "visibleText": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "bottle": 489,
+        "fruit": 316,
+        "notes": 3,
+        "cta": 714.859375,
+        "hud": 922.4375
+      }
+    ],
+    "checks": [
+      "Real photographic selectors; one shared hover preview; correct photo per fruit; bounded outside readable row; keyboard focus",
+      "Existing pinned horizontal rail reaches all four slides in both languages, with legible notes and CTA above controls",
+      "Footer changes colors continuously without mouse, never moves letters, pauses and resumes; section reveal replays on return",
+      "All decorative SVG paths and stroke caps fit their viewBoxes"
+    ],
+    "errors": [],
+    "consoleErrors": [],
+    "badResponses": [],
+    "staticOpacity": [
+      1,
+      1,
+      0.86,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0.86,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0.86,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0.86,
+      1,
+      1,
+      1
+    ]
+  },
+  "loading": {
+    "runs": [
+      {
+        "label": "development first entry",
+        "visibleFrames": 118,
+        "scaleRange": 0.3819967739572745,
+        "elapsedMs": 4474,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development reload equivalent to F5",
+        "visibleFrames": 117,
+        "scaleRange": 0.37689630675497476,
+        "elapsedMs": 4022,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development reload equivalent to Ctrl+R",
+        "visibleFrames": 118,
+        "scaleRange": 0.38999558030140624,
+        "elapsedMs": 4063,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development return with fresh document",
+        "visibleFrames": 118,
+        "scaleRange": 0.38519700704026083,
+        "elapsedMs": 4076,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development mobile",
+        "visibleFrames": 118,
+        "scaleRange": 0.3926968118766341,
+        "elapsedMs": 4082,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development slow",
+        "visibleFrames": 168,
+        "scaleRange": 0.3836964715743588,
+        "elapsedMs": 5073,
+        "phases": [
+          "entering",
+          "waiting",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development failure",
+        "visibleFrames": 118,
+        "scaleRange": 0.3846962120493437,
+        "elapsedMs": 4044,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "development reduced",
+        "visibleFrames": 20,
+        "scaleRange": 0,
+        "elapsedMs": 1432,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production first entry",
+        "visibleFrames": 118,
+        "scaleRange": 0.3937971590074698,
+        "elapsedMs": 3783,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production reload equivalent to F5",
+        "visibleFrames": 118,
+        "scaleRange": 0.3915971211835355,
+        "elapsedMs": 3678,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production reload equivalent to Ctrl+R",
+        "visibleFrames": 118,
+        "scaleRange": 0.3915971211835355,
+        "elapsedMs": 3610,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production return with fresh document",
+        "visibleFrames": 117,
+        "scaleRange": 0.37889715785401856,
+        "elapsedMs": 3624,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production mobile",
+        "visibleFrames": 118,
+        "scaleRange": 0.3872970450212512,
+        "elapsedMs": 3665,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production slow",
+        "visibleFrames": 167,
+        "scaleRange": 0.37889715785401856,
+        "elapsedMs": 4657,
+        "phases": [
+          "entering",
+          "waiting",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production failure",
+        "visibleFrames": 117,
+        "scaleRange": 0.3799971354545906,
+        "elapsedMs": 3684,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      },
+      {
+        "label": "production reduced",
+        "visibleFrames": 21,
+        "scaleRange": 0,
+        "elapsedMs": 1072,
+        "phases": [
+          "entering",
+          "exiting"
+        ],
+        "states": [
+          "leaving"
+        ]
+      }
+    ],
+    "errors": [],
+    "unexpectedConsoleErrors": [],
+    "expectedAssetFailures": [
+      {
+        "environment": "development",
+        "path": "/images/hero/hero-bg-sola.webp"
+      },
+      {
+        "environment": "development",
+        "path": "/images/fragrances/fragrance-bottle-sola.webp"
+      },
+      {
+        "environment": "development",
+        "path": "/images/fragrances/fragrance-bottle-sola.webp"
+      },
+      {
+        "environment": "development",
+        "path": "/images/fragrances/fragrance-bottle-sola.webp"
+      },
+      {
+        "environment": "production",
+        "path": "/images/hero/hero-bg-sola.webp"
+      },
+      {
+        "environment": "production",
+        "path": "/images/fragrances/fragrance-bottle-sola.webp"
+      },
+      {
+        "environment": "production",
+        "path": "/images/fragrances/fragrance-bottle-sola.webp"
+      },
+      {
+        "environment": "production",
+        "path": "/images/fragrances/fragrance-bottle-sola.webp"
+      }
+    ]
+  },
+  "images": {
+    "originals": [
+      {
+        "id": "hero-bg-sola",
+        "path": "public/images/hero/hero-bg-sola.webp",
+        "unchanged": true
+      },
+      {
+        "id": "hero-bg-rubra",
+        "path": "public/images/hero/hero-bg-rubra.webp",
+        "unchanged": true
+      },
+      {
+        "id": "hero-bg-marea",
+        "path": "public/images/hero/hero-bg-marea.webp",
+        "unchanged": true
+      },
+      {
+        "id": "hero-bg-vera",
+        "path": "public/images/hero/hero-bg-vera.webp",
+        "unchanged": true
+      },
+      {
+        "id": "hero-pedestal",
+        "path": "public/images/hero/hero-pedestal.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fragrance-bottle-sola",
+        "path": "public/images/fragrances/fragrance-bottle-sola.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fragrance-bottle-rubra",
+        "path": "public/images/fragrances/fragrance-bottle-rubra.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fragrance-bottle-marea",
+        "path": "public/images/fragrances/fragrance-bottle-marea.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fragrance-bottle-vera",
+        "path": "public/images/fragrances/fragrance-bottle-vera.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-pineapple",
+        "path": "public/images/fruits/fruit-cutout-pineapple.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-pineapple-accent",
+        "path": "public/images/fruits/fruit-cutout-pineapple-accent.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-berries",
+        "path": "public/images/fruits/fruit-cutout-berries.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-berries-accent",
+        "path": "public/images/fruits/fruit-cutout-berries-accent.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-papaya",
+        "path": "public/images/fruits/fruit-cutout-papaya.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-papaya-accent",
+        "path": "public/images/fruits/fruit-cutout-papaya-accent.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-apple",
+        "path": "public/images/fruits/fruit-cutout-apple.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-cutout-apple-accent",
+        "path": "public/images/fruits/fruit-cutout-apple-accent.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-universe-pineapple",
+        "path": "public/images/fruits/fruit-universe-pineapple.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-universe-berries",
+        "path": "public/images/fruits/fruit-universe-berries.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-universe-papaya",
+        "path": "public/images/fruits/fruit-universe-papaya.webp",
+        "unchanged": true
+      },
+      {
+        "id": "fruit-universe-apple",
+        "path": "public/images/fruits/fruit-universe-apple.webp",
+        "unchanged": true
+      },
+      {
+        "id": "philosophy-editorial",
+        "path": "public/images/editorial/philosophy-editorial.webp",
+        "unchanged": true
+      },
+      {
+        "id": "philosophy-detail",
+        "path": "public/images/editorial/philosophy-detail.webp",
+        "unchanged": true
+      },
+      {
+        "id": "experience-backdrop",
+        "path": "public/images/editorial/experience-backdrop.webp",
+        "unchanged": true
+      }
+    ],
+    "thumbnails": [
+      {
+        "kind": "pineapple",
+        "path": "public/images/fruits/thumbnails/pineapple.webp",
+        "width": 256,
+        "height": 256,
+        "hasAlpha": true,
+        "bytes": 21026
+      },
+      {
+        "kind": "berries",
+        "path": "public/images/fruits/thumbnails/berries.webp",
+        "width": 256,
+        "height": 256,
+        "hasAlpha": true,
+        "bytes": 22172
+      },
+      {
+        "kind": "papaya",
+        "path": "public/images/fruits/thumbnails/papaya.webp",
+        "width": 256,
+        "height": 256,
+        "hasAlpha": true,
+        "bytes": 19110
+      },
+      {
+        "kind": "apple",
+        "path": "public/images/fruits/thumbnails/apple.webp",
+        "width": 256,
+        "height": 256,
+        "hasAlpha": true,
+        "bytes": 12510
+      }
+    ],
+    "officialSymbolPathsUnchanged": true
+  },
+  "limits": [
+    "Chromium only; no Safari/Firefox run or physical mobile-device validation",
+    "Reload coverage uses the browser navigation API, equivalent to full reloads initiated by F5/Ctrl+R"
+  ]
+}

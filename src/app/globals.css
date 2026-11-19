@@ -1,0 +1,476 @@
+@import "tailwindcss";
+
+/* ──────────────────────────────────────────────────────────────
+   PULPA design tokens — see docs/DESIGN_SYSTEM.md
+   ────────────────────────────────────────────────────────────── */
+@theme {
+  --color-ivory: #f6f1e8;
+  --color-ivory-deep: #ece4d6;
+  --color-charcoal: #201f1c;
+  --color-charcoal-soft: #4a4740;
+
+  --color-sola: #f2cc58;
+  --color-sola-deep: #c8921f;
+  --color-sola-soft: #fbefc6;
+
+  --color-rubra: #bc4358;
+  --color-rubra-deep: #7a2135;
+  --color-rubra-soft: #f4cdd3;
+  --color-wine: #4a1220;
+
+  --color-marea: #f2a16e;
+  --color-marea-deep: #c4612f;
+  --color-marea-soft: #fbdfcb;
+
+  --color-vera: #a9c77d;
+  --color-vera-deep: #5b7c36;
+  --color-vera-soft: #e4eed2;
+
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-quart: cubic-bezier(0.76, 0, 0.24, 1);
+
+  --radius-blob: 2.25rem;
+  --breakpoint-xs: 25rem;
+}
+
+@theme inline {
+  --font-display: var(--font-syne), "Arial Black", system-ui, sans-serif;
+  --font-sans: var(--font-manrope), system-ui, sans-serif;
+}
+
+:root {
+  --nav-h: 5.5rem;
+  --gutter: clamp(1rem, 3.2vw, 2.5rem);
+  color-scheme: light;
+}
+
+html {
+  background: var(--color-ivory);
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: auto;
+}
+
+body {
+  background: var(--color-ivory);
+  color: var(--color-charcoal);
+  font-family: var(--font-sans);
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Scroll is locked only while the preloader is active (pure CSS, no JS race). */
+html[data-intro="active"],
+html:has([data-scroll-lock="true"]) {
+  overflow: hidden;
+}
+
+/* Everything interactive gets a pointer (Tailwind 4 no longer sets it on buttons). */
+a[href],
+button:not(:disabled),
+[role="button"],
+[role="tab"],
+label[for],
+select,
+summary {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: not-allowed;
+}
+
+::selection {
+  background: var(--color-rubra);
+  color: var(--color-ivory);
+}
+
+:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+  border-radius: 6px;
+}
+
+[id] {
+  scroll-margin-top: 0;
+}
+
+/* ── Typography scale ─────────────────────────────────────────── */
+@utility t-mega {
+  font-family: var(--font-display);
+  font-weight: 800;
+  line-height: 0.82;
+  letter-spacing: -0.045em;
+  text-transform: uppercase;
+}
+
+@utility t-display {
+  font-family: var(--font-display);
+  font-weight: 800;
+  line-height: 0.88;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+}
+
+@utility t-heading {
+  font-family: var(--font-display);
+  font-weight: 700;
+  line-height: 0.95;
+  letter-spacing: -0.025em;
+}
+
+@utility t-eyebrow {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.72rem;
+  line-height: 1;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+}
+
+@utility t-wordmark {
+  font-family: var(--font-display);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+@utility text-outline {
+  color: transparent;
+  -webkit-text-stroke: 1.5px currentColor;
+}
+
+/* ── Surfaces ──────────────────────────────────────────────────── */
+@utility glass {
+  background: color-mix(in oklab, var(--color-ivory) 62%, transparent);
+  border: 1px solid color-mix(in oklab, var(--color-ivory) 70%, transparent);
+  -webkit-backdrop-filter: blur(18px) saturate(1.3);
+  backdrop-filter: blur(18px) saturate(1.3);
+}
+
+@utility glass-dark {
+  background: color-mix(in oklab, var(--color-wine) 55%, transparent);
+  border: 1px solid color-mix(in oklab, var(--color-ivory) 18%, transparent);
+  -webkit-backdrop-filter: blur(16px) saturate(1.2);
+  backdrop-filter: blur(16px) saturate(1.2);
+}
+
+@utility container-x {
+  width: 100%;
+  margin-inline: auto;
+  max-width: 96rem;
+  padding-inline: var(--gutter);
+}
+
+/* Paper grain — a static fixed layer, composited once. */
+.grain {
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  pointer-events: none;
+  opacity: 0.07;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .9 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ── Image slot placeholders ──────────────────────────────────── */
+.slot-placeholder {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  background:
+    radial-gradient(120% 90% at 30% 20%, color-mix(in oklab, var(--ph-a, #f2cc58) 85%, white) 0%, transparent 60%),
+    radial-gradient(90% 80% at 80% 90%, var(--ph-b, #bc4358) 0%, transparent 70%),
+    linear-gradient(160deg, var(--ph-a, #f2cc58), var(--ph-b, #bc4358));
+}
+
+.slot-placeholder::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    135deg,
+    color-mix(in oklab, white 14%, transparent) 0 1px,
+    transparent 1px 14px
+  );
+  mix-blend-mode: soft-light;
+}
+
+.slot-label {
+  display: none;
+}
+
+[data-show-slots="true"] [data-asset-id] {
+  outline: 1px dashed color-mix(in oklab, var(--color-charcoal) 55%, transparent);
+  outline-offset: -1px;
+}
+
+[data-show-slots="true"] .slot-label {
+  display: inline-flex;
+  position: absolute;
+  left: 0.5rem;
+  top: 0.5rem;
+  z-index: 5;
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  background: var(--color-charcoal);
+  color: var(--color-ivory);
+  font: 600 10px/1 ui-monospace, SFMono-Regular, Menlo, monospace;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+/* Hero layers that start hidden (only the first fragrance is visible on first paint). */
+[data-hero-initial="hidden"] {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Rolling label used in buttons */
+.roll {
+  display: inline-grid;
+  overflow: hidden;
+  line-height: 1.35;
+  padding-block: 0.08em;
+  margin-block: -0.08em;
+}
+.roll > span {
+  grid-area: 1 / 1;
+  transition: transform 0.55s var(--ease-out-expo);
+}
+.roll > span:last-child {
+  transform: translateY(110%);
+}
+.group:hover .roll > span:first-child,
+.group:focus-visible .roll > span:first-child {
+  transform: translateY(-110%);
+}
+.group:hover .roll > span:last-child,
+.group:focus-visible .roll > span:last-child {
+  transform: translateY(0);
+}
+
+/* SplitText helpers */
+.split-line {
+  padding: 0 0.06em 0.08em;
+  margin: 0 -0.06em -0.08em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* No-JS / failsafe: never let the preloader trap the page. */
+@keyframes preloader-failsafe {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+.preloader[data-state="active"] {
+  animation: preloader-failsafe 0.6s 9s forwards;
+}
+
+/* ── Hero geometry ──────────────────────────────────────────────
+   Everything around the bottle is laid out relative to `.hero-anchor`
+   (the 4:5 bottle box), so fruits/pedestal/leaves scale with it.        */
+.hero-words {
+  font-size: clamp(1.9rem, 9.6vw, 5.2rem);
+  white-space: nowrap;
+}
+
+/* Art direction stays within the section; SVG wave ends extend beyond its edges. */
+.philosophy {
+  background:
+    radial-gradient(ellipse at 96% 4%, #a9c77d42 0%, transparent 45%),
+    radial-gradient(ellipse at 0% 95%, #f2a16e70 0%, transparent 55%),
+    linear-gradient(120deg, #f6f1e8 18%, #fbefc6 62%, #f4cdd35e);
+}
+.philosophy-principle {
+  background: color-mix(in oklab, var(--color-ivory) 72%, transparent);
+}
+@media (max-width: 374px) {
+  header .pulpa-logo { --logo-size: 1.05rem; }
+  header .language-selector button { min-width: 2rem; padding-inline: .35rem; }
+}
+
+/* Shared optical lock-up: align the pineapple body with the cap height. */
+.pulpa-logo {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: .32em;
+  font-size: var(--logo-size, 1.3rem);
+  line-height: 1;
+}
+.pulpa-logo__symbol { display: block; height: 1.32em; width: auto; flex: none; transform: translateY(-.11em); }
+.pulpa-logo__wordmark { display: block; font-size: 1em; line-height: 1; }
+.pulpa-logo--footer { --logo-size: 1.7rem; }
+
+.fragrance-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: .45rem;
+  min-height: 1.75rem;
+  padding: .35rem .75rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: .7rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+  vertical-align: middle;
+}
+.fragrance-badge--solid { border-color: transparent; }
+.hero-fruit-badge { min-height: 1.5rem; padding: .3rem .65rem; font: 600 .6rem/1.2 var(--font-display); letter-spacing: .12em; text-transform: uppercase; white-space: nowrap; }
+.fruit-thumbnail { filter: drop-shadow(0 3px 4px rgb(32 31 28 / .1)); }
+
+.fragrance-list__rows { margin-top: 1.5rem; border-block: 1px solid rgb(32 31 28 / .17); }
+.fragrance-list__rows > li + li { border-top: 1px solid rgb(32 31 28 / .14); }
+.fragrance-list__row { display: grid; grid-template-columns: 2.75rem auto minmax(0, 1fr) 1rem; align-items: center; gap: .7rem; width: 100%; min-height: 4.5rem; padding: .7rem .25rem; text-align: left; transition: background-color .3s; }
+.fragrance-list__row:hover, .fragrance-list__row:focus-visible { background: rgb(236 228 214 / .45); }
+.fragrance-list__name { font: 700 clamp(.9rem, 1.2vw, 1.1rem)/1 var(--font-display); letter-spacing: .06em; }
+.fragrance-list__fruit { justify-self: end; max-width: 11rem; color: var(--color-charcoal-soft); font-size: .8rem; line-height: 1.35; text-align: right; }
+.fragrance-list__arrow { justify-self: end; font-size: 1.1rem; transition: transform .35s; }
+.fragrance-list__row[aria-current="true"] .fragrance-list__arrow { transform: rotate(45deg); }
+.fragrance-list__row[aria-current="true"] .fragrance-list__name { color: var(--row-accent); }
+.fragrance-list__row:active .fruit-thumbnail { transform: scale(.95); }
+.fragrance-preview { position: fixed; z-index: 61; top: 0; left: 0; width: clamp(6rem, 9.5vw, 9rem); aspect-ratio: 1; border: 1px solid rgb(255 255 255 / .8); border-radius: 1.7rem; background: var(--color-ivory); box-shadow: 0 14px 42px -20px rgb(32 31 28 / .35); pointer-events: none; }
+
+/* The collection opening fills a viewport and grows with its content. */
+.collection-intro {
+  position: relative;
+  min-height: 100vh;
+  min-height: 100dvh;
+  align-content: center;
+  background: var(--color-ivory);
+}
+
+/* Mobile hero card: separate metadata from its equally sized controls. */
+@media (max-width: 639.98px) {
+  .hero-info-shell { flex-shrink: 0; padding-bottom: max(.75rem, env(safe-area-inset-bottom)); }
+  .hero-info-panel { gap: .875rem; padding: 1rem; border-radius: 1.5rem; }
+  .hero-info-heading { position: relative; display: block; }
+  .hero-info-title-row { flex-direction: column; align-items: flex-start; gap: .45rem; }
+  .hero-info-title-row > span:first-child { max-width: calc(100% - 3.5rem); }
+  .hero-info-counter { position: absolute; top: 0; right: 0; display: flex; align-items: center; min-height: 1.9rem; padding-top: 0; line-height: 1; }
+  .hero-info-tagline { min-height: 2.8em; margin-top: .6rem; line-height: 1.4; }
+  .hero-info-controls { display: grid; grid-template-columns: minmax(0, 1fr) 2.75rem; gap: .5rem; }
+  .hero-fruit-options { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: .25rem; }
+  .hero-fruit-option { min-height: 4.125rem; justify-content: center; padding: .375rem .125rem; border-radius: .875rem; }
+  .hero-fruit-photo { width: 2rem; height: 2rem; }
+  .hero-fruit-photo > .fruit-thumbnail { width: 100%; height: 100%; }
+  .hero-info-discover { width: 100%; min-height: 2.75rem; border-radius: .875rem; }
+  .hero-info-progress { position: static; margin-top: .625rem; }
+  .hero-info-progress > span { border-radius: 999px; }
+}
+
+.hero-anchor {
+  position: absolute;
+  top: 3%;
+  bottom: 12%;
+  left: 50%;
+  aspect-ratio: 4 / 5;
+  transform: translateX(-50%);
+}
+
+@media (min-width: 1024px) {
+  .hero {
+    /* bottle height: fits under the headline, never wider than 42vw */
+    --bottle-h: min(calc(79svh - 152px), 42vw, 820px);
+    --bottle-w: calc(var(--bottle-h) * 0.8);
+    --bottle-bottom: calc(var(--bottle-h) * 0.27);
+  }
+
+  .hero-stage {
+    position: absolute;
+    inset: 0;
+  }
+
+  .hero-anchor {
+    top: auto;
+    bottom: var(--bottle-bottom);
+    left: calc(50% - var(--bottle-w) / 2);
+    width: var(--bottle-w);
+    height: var(--bottle-h);
+    transform: none;
+  }
+
+  .hero-words {
+    position: absolute;
+    inset-inline: 0;
+    bottom: calc(var(--bottle-bottom) + var(--bottle-h) * 0.5);
+    display: block;
+    height: 0.9em;
+    margin: 0;
+    font-size: clamp(4rem, min(8.3vw, 15svh), 11rem);
+  }
+
+  .hero-words > [data-hero-word="left"] {
+    position: absolute;
+    bottom: 0;
+    right: calc(50% + var(--bottle-w) * 0.31);
+  }
+
+  .hero-words > [data-hero-word="right"] {
+    position: absolute;
+    bottom: 0;
+    left: calc(50% + var(--bottle-w) * 0.31);
+  }
+}
+
+/* ── Experience chapters ──
+   Default (reduced motion / no JS): a simple list.
+   With motion, GSAP sets data-stacked and plays them one at a time. */
+.experience-chapters {
+  display: grid;
+  gap: 0.5rem;
+}
+.experience-chapters[data-stacked="true"] > * {
+  grid-area: 1 / 1;
+}
+@media (max-width: 1023.98px) {
+  .experience-chapters:not([data-stacked]) li > p:last-child {
+    display: none;
+  }
+}
+
+/* Reduced motion: the Experience scene is static, so the headline moves to the top
+   instead of sitting behind the bottle. */
+@media (prefers-reduced-motion: reduce) {
+  .exp-head {
+    justify-content: flex-start;
+    gap: 1.5rem;
+  }
+  .exp-head h2 {
+    font-size: clamp(1.8rem, 4vw, 4.2rem);
+  }
+  .exp-head h2 > span {
+    text-align: left;
+  }
+}
+
+/* Without a pinned animation, every fragrance remains reachable as a normal
+   vertical panel, including on desktop. */
+@media (min-width: 1024px) and (prefers-reduced-motion: reduce) {
+  [data-collection-pin] { height: auto; overflow: clip; }
+  [data-collection-track] { flex-direction: column; width: 100%; height: auto; }
+  [data-panel] { width: 100%; height: auto; min-height: 44rem; padding-block: 3rem; }
+  [data-rail-hud] { display: none; }
+}
+
+/* The static mobile scene uses document flow so the three chapters cannot
+   cover the product, and all of their descriptions remain readable. */
+@media (max-width: 1023.98px) and (prefers-reduced-motion: reduce) {
+  [data-exp-pin] { height: auto; min-height: 0; padding-block: calc(var(--nav-h) + 1rem) 3rem; }
+  .exp-head { position: relative; inset: auto; padding: 0 var(--gutter); }
+  [data-exp-product] { position: relative; inset: auto; margin-top: 2rem; }
+  [data-exp-hud] { position: relative; inset: auto; margin: 2rem var(--gutter) 0; }
+  [data-chapter-progress] { display: none; }
+  .experience-chapters:not([data-stacked]) li > p:last-child { display: block; }
+}
