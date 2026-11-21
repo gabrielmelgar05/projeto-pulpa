@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
 import { useLanguage } from "@/components/providers/LanguageProvider";
 import { LanguageSelector } from "@/components/ui/LanguageSelector";
-import { Logo } from "@/components/ui/Logo";
+import { NavbarLogo } from "@/components/ui/Logo";
 import { Button } from "@/components/ui/Button";
 import { MobileMenu } from "@/components/layout/MobileMenu";
 import { useIntro } from "@/components/providers/SiteProviders";
@@ -104,7 +104,7 @@ export function Navbar() {
             }`}
             aria-label={`PULPA — ${messages.ui.backToTop}`}
           >
-            <Logo />
+            <NavbarLogo />
           </a>
 
           <nav aria-label={messages.ui.primary} data-nav-item className="glass pointer-events-auto relative hidden rounded-full p-1.5 lg:block">

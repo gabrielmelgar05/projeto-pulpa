@@ -110,7 +110,9 @@ export function Hero() {
           .to(q('[data-hero-word="right"]'), { xPercent: 18 }, 0)
           .to(q("[data-hero-scroll-stage]"), { yPercent: 10, scale: 1.06 }, 0)
           .to(q("[data-hero-scroll-fruits]"), { yPercent: -16 }, 0)
-          .to(q("[data-hero-card]"), { y: -60, autoAlpha: 0 }, 0);
+          // The intro also animates these cards. Never cache its hidden or
+          // intermediate values as the state to restore when scrolling back.
+          .fromTo(q("[data-hero-card]"), { y: 0, autoAlpha: 1 }, { y: -60, autoAlpha: 0, immediateRender: false }, 0);
 
         const layers = q<HTMLElement>("[data-depth]").map((layer) => ({
           depth: Number(layer.dataset.depth),

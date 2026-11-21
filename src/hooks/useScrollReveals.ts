@@ -78,7 +78,6 @@ export function useScrollReveals(scope: RefObject<HTMLElement | null>) {
           duration: gsap.utils.random(2.6, 3.8), ease: "sine.inOut", yoyo: true, repeat: -1, delay: index * 0.2,
         }), root);
       });
-      ScrollTrigger.refresh();
     });
     return () => mm.revert();
   }, { scope, dependencies: [locale], revertOnUpdate: true });

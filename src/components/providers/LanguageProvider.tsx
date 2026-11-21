@@ -15,6 +15,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
   const [locale, updateLocale] = useState<Locale>("en");
   const frame = useRef(0);
   const setLocale = useCallback((next: Locale) => {
+    // Pinned scenes use scroll distance as their internal position. Preserve
+    // that progress as well as the section offset used by normal document flow.
+    const pinned = ScrollTrigger.getAll().find((trigger) => trigger.pin && scrollY >= trigger.start && scrollY < trigger.end);
+    const progress = pinned ? (scrollY - pinned.start) / (pinned.end - pinned.start) : 0;
     const anchor = [...document.querySelectorAll<HTMLElement>("main > section, footer")].find((el) => {
       const rect = el.getBoundingClientRect();
       return rect.top <= innerHeight * 0.35 && rect.bottom > innerHeight * 0.35;
@@ -23,12 +27,17 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     flushSync(() => updateLocale(next));
     cancelAnimationFrame(frame.current);
     frame.current = requestAnimationFrame(() => {
+      // All localized useGSAP cleanups, SplitText instances and DOM updates
+      // have finished. Refresh once here, never midway through sibling hooks.
       ScrollTrigger.refresh();
-      if (anchor) {
+      if (pinned?.pin?.isConnected) {
+        window.scrollTo({ top: pinned.start + (pinned.end - pinned.start) * progress, behavior: "instant" });
+      } else if (anchor) {
         const rect = anchor.getBoundingClientRect();
         const preservedOffset = Math.min(offset, Math.max(0, rect.height - innerHeight * 0.35 - 1));
         window.scrollTo({ top: rect.top + scrollY + preservedOffset, behavior: "instant" });
       }
+      ScrollTrigger.update();
     });
   }, []);
 

@@ -1,5 +1,10 @@
 import { PulpaSymbol } from "@/components/ui/PulpaSymbol";
 
+/** One outlined SVG asset fixes the navbar mark's proportions and optical alignment. */
+export function NavbarLogo() {
+  return <span className="pulpa-navbar-logo" aria-hidden />;
+}
+
 /**
  * Horizontal lock-up: symbol + "PULPA" wordmark.
  * Symbol and wordmark share one colour (currentColor) and one weight, so they

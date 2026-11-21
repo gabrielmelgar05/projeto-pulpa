@@ -295,7 +295,7 @@ button:disabled {
   background: color-mix(in oklab, var(--color-ivory) 72%, transparent);
 }
 @media (max-width: 374px) {
-  header .pulpa-logo { --logo-size: 1.05rem; }
+  header .pulpa-navbar-logo { --logo-size: 1.05rem; }
   header .language-selector button { min-width: 2rem; padding-inline: .35rem; }
 }
 
@@ -310,6 +310,18 @@ button:disabled {
 .pulpa-logo__symbol { display: block; height: 1.32em; width: auto; flex: none; transform: translateY(-.11em); }
 .pulpa-logo__wordmark { display: block; font-size: 1em; line-height: 1; }
 .pulpa-logo--footer { --logo-size: 1.7rem; }
+
+/* A single SVG image contains both the official symbol and outlined wordmark.
+   The mask preserves the navbar's existing light/dark colour transition. */
+.pulpa-navbar-logo {
+  display: block;
+  flex: none;
+  width: 7.21153846em;
+  aspect-ratio: 150 / 36;
+  font-size: var(--logo-size, 1.3rem);
+  background-color: currentColor;
+  mask: url("/images/brand/pulpa-logo-horizontal.svg") center / contain no-repeat;
+}
 
 .fragrance-badge {
   display: inline-flex;
